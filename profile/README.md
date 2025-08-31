@@ -1,7 +1,5 @@
 <img alt="binrc open source logo" src="assets/logo_binrc_long_opensource.jpg" height="45" style="background:#FFF;padding:5px;border-radius:8px;">
 
-&nbsp;
-
 At binrc, like most tech companies, we depend on open source software from all over the world to help us get things done. We're grateful to the open source community, the projects, and especially their maintainers who have allowed us to innovate and explore new frontiers in network optimization, edge computing, and AI-driven systems.
 
 Listed within this GitHub org, you'll find a collection of things built by binrc, which we think folks may find helpful or inspiring. Our published projects cover a wide range of complexity, from [roma](https://github.com/binrchq/roma), a super lightweight jumpserver service developed using Go, and [mtconsole](https://github.com/binrchq/mtconsole), a simple and easy-to-use network maintenance terminal interface, [headcni](https://github.com/binrchq/headcni), a Kubernetes CNI plugin combining Headscale and Tailscale functions, to a variety of experimental projects in facial expression-driven systems and network traffic scheduling.
