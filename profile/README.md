@@ -1,8 +1,11 @@
 <img alt="binrc open source logo" src="assets/logo_binrc_long_opensource.jpg" height="45" style="background:#FFF;padding:5px;border-radius:8px;">
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 &nbsp;
 >>>>>>> 67cc5a0 (feat: Readme.md)
+=======
+>>>>>>> 8ec6694 (feat: Readme.md)
 
 At binrc, like most tech companies, we depend on open source software from all over the world to help us get things done. We're grateful to the open source community, the projects, and especially their maintainers who have allowed us to innovate and explore new frontiers in network optimization, edge computing, and AI-driven systems.
 
