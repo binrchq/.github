@@ -31,6 +31,4 @@ To read more about the exciting work we're doing, check out our [website](https:
 
 [<img alt="binrc api" src="assets/api.png" height="60" style="border-radius:8px;">](https://github.com/binrcapi)
 
-If you're looking for binrc research resources, experimental projects, and development tools, you'll want to check out the [binrc GitHub Org](https://github.com/binrchq).
-
-如果您正在寻找 binrc 的研究资源、实验项目和开发工具，您需要查看 [binrc GitHub 组织](https://github.com/binrchq)。
+>For more resources, check out [binrcHQ](https://github.com/binrchq).
